@@ -1,0 +1,108 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2867
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\paperw11900\paperh16840\margl1440\margr1440\vieww14800\viewh10480\viewkind0
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf0 EmployeeID ,Age ,Gender ,Department ,JobRole ,MonthlyIncome, JobSatisfaction,YearsAtCompany,Attrition\
+1,25,Female,Sales,Sales Executive,3000,3,2,Yes\
+2,32,Male,HR,HR Manager,4500,4,5,No\
+3,28,Female,IT,Software Engineer,4000,2,3,Yes\
+4,45,Male,Finance,Accountant,5500,4,10,No\
+5,30,Male,Sales,Sales Executive,3200,1,4,Yes\
+6,38,Female,IT,Developer,4800,3,7,No\
+7,29,Male,HR,Recruiter,3500,2,3,Yes\
+8,41,Female,Finance,Manager,6000,4,12,No\
+9,26,Male,Sales,Sales Rep,2800,1,2,Yes\
+10,35,Female,IT,Software Engineer,4700,3,6,No\
+11,31,Male,Sales,Sales Executive,3300,2,5,Yes\
+12,44,Female,HR,HR Manager,5200,4,11,No\
+13,27,Male,IT,Developer,3900,2,3,Yes\
+14,39,Female,Finance,Accountant,5100,3,8,No\
+15,24,Female,Sales,Sales Rep,2700,1,1,Yes\
+16,36,Male,IT,Developer,4600,3,7,No\
+17,33,Female,HR,Recruiter,3700,2,4,Yes\
+18,42,Male,Finance,Manager,6200,4,13,No\
+19,28,Female,Sales,Sales Executive,3100,2,3,Yes\
+20,37,Male,IT,Software Engineer,4900,3,8,No\
+21,26,Female,Sales,Sales Rep,2900,1,2,Yes\
+22,34,Male,HR,Manager,4800,4,6,No\
+23,29,Female,IT,Developer,4200,2,4,Yes\
+24,46,Male,Finance,Accountant,5600,4,11,No\
+25,31,Male,Sales,Executive,3400,2,5,Yes\
+26,39,Female,IT,Engineer,5000,3,9,No\
+27,27,Male,HR,Recruiter,3600,2,3,Yes\
+28,43,Female,Finance,Manager,6100,4,12,No\
+29,25,Male,Sales,Rep,3000,1,2,Yes\
+30,36,Female,IT,Engineer,4700,3,7,No\
+31,30,Male,Sales,Executive,3200,2,4,Yes\
+32,45,Female,HR,Manager,5300,4,10,No\
+33,28,Male,IT,Developer,4100,2,3,Yes\
+34,40,Female,Finance,Accountant,5200,3,9,No\
+35,26,Female,Sales,Rep,2800,1,2,Yes\
+36,38,Male,IT,Engineer,4800,3,8,No\
+37,32,Female,HR,Recruiter,3700,2,5,Yes\
+38,44,Male,Finance,Manager,6000,4,11,No\
+39,29,Female,Sales,Executive,3100,2,3,Yes\
+40,37,Male,IT,Developer,4900,3,7,No\
+41,27,Female,Sales,Rep,2900,1,2,Yes\
+42,35,Male,HR,Manager,4700,4,6,No\
+43,30,Female,IT,Engineer,4300,2,4,Yes\
+44,46,Male,Finance,Accountant,5700,4,12,No\
+45,31,Male,Sales,Executive,3400,2,5,Yes\
+46,39,Female,IT,Engineer,5000,3,9,No\
+47,28,Male,HR,Recruiter,3600,2,3,Yes\
+48,42,Female,Finance,Manager,6100,4,11,No\
+49,26,Male,Sales,Rep,3000,1,2,Yes\
+50,36,Female,IT,Engineer,4700,3,7,No\
+51,30,Male,Sales,Executive,3200,2,4,Yes\
+52,45,Female,HR,Manager,5300,4,10,No\
+53,28,Male,IT,Developer,4100,2,3,Yes\
+54,40,Female,Finance,Accountant,5200,3,9,No\
+55,26,Female,Sales,Rep,2800,1,2,Yes\
+56,38,Male,IT,Engineer,4800,3,8,No\
+57,32,Female,HR,Recruiter,3700,2,5,Yes\
+58,44,Male,Finance,Manager,6000,4,11,No\
+59,29,Female,Sales,Executive,3100,2,3,Yes\
+60,37,Male,IT,Developer,4900,3,7,No\
+61,27,Female,Sales,Rep,2900,1,2,Yes\
+62,35,Male,HR,Manager,4700,4,6,No\
+63,30,Female,IT,Engineer,4300,2,4,Yes\
+64,46,Male,Finance,Accountant,5700,4,12,No\
+65,31,Male,Sales,Executive,3400,2,5,Yes\
+66,39,Female,IT,Engineer,5000,3,9,No\
+67,28,Male,HR,Recruiter,3600,2,3,Yes\
+68,42,Female,Finance,Manager,6100,4,11,No\
+69,26,Male,Sales,Rep,3000,1,2,Yes\
+70,36,Female,IT,Engineer,4700,3,7,No\
+71,30,Male,Sales,Executive,3200,2,4,Yes\
+72,45,Female,HR,Manager,5300,4,10,No\
+73,28,Male,IT,Developer,4100,2,3,Yes\
+74,40,Female,Finance,Accountant,5200,3,9,No\
+75,26,Female,Sales,Rep,2800,1,2,Yes\
+76,38,Male,IT,Engineer,4800,3,8,No\
+77,32,Female,HR,Recruiter,3700,2,5,Yes\
+78,44,Male,Finance,Manager,6000,4,11,No\
+79,29,Female,Sales,Executive,3100,2,3,Yes\
+80,37,Male,IT,Developer,4900,3,7,No\
+81,27,Female,Sales,Rep,2900,1,2,Yes\
+82,35,Male,HR,Manager,4700,4,6,No\
+83,30,Female,IT,Engineer,4300,2,4,Yes\
+84,46,Male,Finance,Accountant,5700,4,12,No\
+85,31,Male,Sales,Executive,3400,2,5,Yes\
+86,39,Female,IT,Engineer,5000,3,9,No\
+87,28,Male,HR,Recruiter,3600,2,3,Yes\
+88,42,Female,Finance,Manager,6100,4,11,No\
+89,26,Male,Sales,Rep,3000,1,2,Yes\
+90,36,Female,IT,Engineer,4700,3,7,No\
+91,30,Male,Sales,Executive,3200,2,4,Yes\
+92,45,Female,HR,Manager,5300,4,10,No\
+93,28,Male,IT,Developer,4100,2,3,Yes\
+94,40,Female,Finance,Accountant,5200,3,9,No\
+95,26,Female,Sales,Rep,2800,1,2,Yes\
+96,38,Male,IT,Engineer,4800,3,8,No\
+97,32,Female,HR,Recruiter,3700,2,5,Yes\
+98,44,Male,Finance,Manager,6000,4,11,No\
+99,29,Female,Sales,Executive,3100,2,3,Yes\
+100,37,Male,IT,Developer,4900,3,7,No}
